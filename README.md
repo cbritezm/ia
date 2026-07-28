@@ -30,3 +30,13 @@ Para que todo el circuito de este chatbot funcione se deberádefinir las siguien
 
 - **Carga de documentos:** inicialmente la carga de documentos se realizaráe forma manual, pero posteriormente se implementarán file watcher que procesaráos nuevos archivos que se vayan cargando, ya sea en un repositorio Git o en un object storage de OCI.
 - **Interaccióon el usuario:** las respuestas del chatbot se realizaráejecutando una consulta de vector en la base de datos.
+
+## Prueba de Funcionalidad
+
+La siguiente imagen es una muestra de la funcionalidad del chatbot.
+
+![Prueba de Ejecucion](docs/images/asistente.png)
+
+## URL
+
+Puede acceder al chatbot haciendo click en la URL: [http://chatbot.cbritezm.com](http://chatbot.cbritezm.com) o [http://159.112.183.223](http://159.112.183.223)

@@ -1,0 +1,14 @@
+[Unit]
+Description=Gunicorn daemon for my Python application
+After=network.target
+
+[Service]
+Type=service
+User=root
+Group=root
+WorkingDirectory=/root/cbritezm/git/ia/chatbot
+ExecStart=/root/cbritezm/git/ia/chatbot/chatbot.sh
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
