@@ -1,6 +1,7 @@
 # Chatbot Interno Excelsis SA
 
-## IntroduccióExcelsis SA es una empresa tecnolóa lír en el mercado. Actualmente tienen un requerimiento de implementar un chatbot interno de manera de ayudar a los funcionarios a obtener informacióe los procedimientos y polícas internas de la empresa, asíomo tambiélos procedimientos definidos por las normas ISO.
+## Introducción
+Excelsis SA es una empresa tecnolóa lír en el mercado. Actualmente tienen un requerimiento de implementar un chatbot interno de manera de ayudar a los funcionarios a obtener informacióe los procedimientos y polícas internas de la empresa, asíomo tambiélos procedimientos definidos por las normas ISO.
 
 ## Alcance
 
